@@ -1,3 +1,5 @@
+### DEPLOYMENT
+
 Pada tahap ini melakukan deploy aplikasi dengan menggunakan Docker Compose untuk command nya MYSQL_PASSWORD='<some password>' docker compose --file dist/docker-compose/docker-compose.yml up -d
 
 Kemudian saya melakukan test aplikasi 

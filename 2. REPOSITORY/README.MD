@@ -1,3 +1,5 @@
+### REPOSITORY
+
 Tahap selanjutnya setelah melakukan provisioning saya memilih repository untuk repository saya memilih gitlab (https://gitlab.com/sinambelaian/retail-store-sample)
 
 Saya membaginya menjadi 3 branch yaitu main,staging,dan production

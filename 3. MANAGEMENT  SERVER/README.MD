@@ -1,3 +1,5 @@
+### SERVER MANAGEMENT
+
 Untuk tahap management server saya mengizinkan port yang bekerja pada server dan termasuk pada security grup aws
 
 
