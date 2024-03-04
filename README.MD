@@ -1,5 +1,7 @@
 ### TEST DEVOPS AXIATA
 
+https://axiata.sinambela.studentdumbways.my.id/home
+
 1. [PROVISIONING]
 
     Menggunakan Ansible sebagai persiapan server termasuk dalam melakukan Reverse Proxy dan SSL encrypt
