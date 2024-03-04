@@ -1,4 +1,4 @@
-### DOCKER
+### DOCKER HUB
 
 Tahap terakhir yaitu memeriksa image yang sudah di push setelah melakukan CI CD, Saya memilih menggunakan Docker Hub
 
