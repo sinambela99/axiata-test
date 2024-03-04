@@ -21,3 +21,8 @@ https://axiata.sinambela.studentdumbways.my.id/home
 5. [CICD](https://github.com/sinambela99/axiata-test/tree/main/5.%20CI%20CD)
 
     Memilih Gitlab CI sebagai media untuk melakukan CI CD
+
+6. [REGISTRY](https://github.com/sinambela99/axiata-test/tree/main/6.%20REGISTRY)
+
+    Memilih Docker Hub sebagai tools untuk menyimpan images yang sudah di push
+
